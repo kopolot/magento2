@@ -1,0 +1,4 @@
+var/cahce
+var/page_cache
+var/session
+vendor
