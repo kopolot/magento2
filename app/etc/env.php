@@ -7,14 +7,14 @@ return [
         'consumers_wait_for_messages' => 1
     ],
     'crypt' => [
-        'key' => '6ba4dbced8f679ece63539ca60def80b'
+        'key' => '888bf9deb896fc1e173d69830a1718da'
     ],
     'db' => [
         'table_prefix' => '',
         'connection' => [
             'default' => [
                 'host' => '127.0.0.1',
-                'dbname' => 'magetest',
+                'dbname' => 'magento2',
                 'username' => 'root',
                 'password' => '',
                 'model' => 'mysql4',
@@ -33,17 +33,17 @@ return [
         ]
     ],
     'x-frame-options' => 'SAMEORIGIN',
-    'MAGE_MODE' => 'developer',
+    'MAGE_MODE' => 'default',
     'session' => [
         'save' => 'files'
     ],
     'cache' => [
         'frontend' => [
             'default' => [
-                'id_prefix' => 'f34_'
+                'id_prefix' => 'f0d_'
             ],
             'page_cache' => [
-                'id_prefix' => 'f34_'
+                'id_prefix' => 'f0d_'
             ]
         ],
         'allow_parallel_generation' => false
@@ -78,6 +78,6 @@ return [
         '127.0.0.1'
     ],
     'install' => [
-        'date' => 'Sat, 14 May 2022 21:43:18 +0000'
+        'date' => 'Mon, 16 May 2022 22:51:57 +0000'
     ]
 ];

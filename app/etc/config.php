@@ -311,6 +311,8 @@ return [
         'Klarna_Kp' => 1,
         'Klarna_Onsitemessaging' => 1,
         'Klarna_KpGraphQl' => 1,
+        'Mageplaza_HelloWorld' => 1,
+        'Magetest_HelloWorld' => 1,
         'Mastering_MyModule' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,

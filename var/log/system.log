@@ -963,3 +963,6 @@ Supported types: config, layout, block_html, collections, reflection, db_ddl, co
 [2022-05-16 16:30:51] main.INFO: Broken reference: the 'yotpo_bottomline' tries to reorder itself towards 'product.info.addto', but their parents are different: 'product.info.main' and '' respectively. [] []
 [2022-05-16 16:31:28] main.INFO: Broken reference: the 'yotpo_bottomline' element cannot be added as child to 'product.info.main', because the latter doesn't exist [] []
 [2022-05-16 16:31:28] main.INFO: Broken reference: the 'yotpo_bottomline' tries to reorder itself towards 'product.info.addto', but their parents are different: 'product.info.main' and '' respectively. [] []
+[2022-05-16 22:42:26] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2022-05-16 22:42:27] main.ERROR: Unable to proceed: the maintenance mode is enabled.  [] []
+[2022-05-16 22:43:13] main.ERROR: The store that was requested wasn't found. Verify the store and try again. [] []
